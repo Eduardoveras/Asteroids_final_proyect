@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroids_ProyectoFinal", "Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal.csproj", "{167A6B9B-1D86-4996-BFF5-C661DB3AB99B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Asteroids_ProyectoFinalContent", "Asteroids_ProyectoFinal\Asteroids_ProyectoFinalContent\Asteroids_ProyectoFinalContent.contentproj", "{715AE62F-FC81-49ED-A579-5F91B12EB31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167A6B9B-1D86-4996-BFF5-C661DB3AB99B}.Debug|x86.ActiveCfg = Debug|x86
+		{167A6B9B-1D86-4996-BFF5-C661DB3AB99B}.Debug|x86.Build.0 = Debug|x86
+		{167A6B9B-1D86-4996-BFF5-C661DB3AB99B}.Release|x86.ActiveCfg = Release|x86
+		{167A6B9B-1D86-4996-BFF5-C661DB3AB99B}.Release|x86.Build.0 = Release|x86
+		{715AE62F-FC81-49ED-A579-5F91B12EB31D}.Debug|x86.ActiveCfg = Debug|x86
+		{715AE62F-FC81-49ED-A579-5F91B12EB31D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

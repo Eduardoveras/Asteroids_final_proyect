@@ -1,0 +1,199 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Asteroids_ProyectoFinal.exe
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Asteroids_ProyectoFinal.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.exe
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\asteroid.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\bullet.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\corazon.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\explosion.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\fondoJuego.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\gameover.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\nave.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\powerpad.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\wallpaper.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\coin.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\epic1.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\explode.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\overSound.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\playershoot.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\theme.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\theme.wma
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\parallax.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\parallax2.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\FrameScore.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\coinImagen.xnb
+c:\users\eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\font1.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\MiniAsteroid.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\wallpaper2.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\SuperAsteroide.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu1.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu2.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\fondoMenu3.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu4.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton1.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton2.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton3.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton4.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton5.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton6.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\botonAtras1.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\botonAtras2.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda1.xnb
+C:\Users\Eduardo\documents\visual studio 2010\Projects\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\corazon.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\fondoJuego.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\nave.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\powerpad.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\wallpaper.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\parallax.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\parallax2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\FrameScore.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\coinImagen.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\MiniAsteroid.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\wallpaper2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\SuperAsteroide.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\fondoMenu3.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu4.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton3.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton4.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton5.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton6.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\botonAtras1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\botonAtras2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\coin.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\epic1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\explode.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\overSound.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\playershoot.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\theme.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\font1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\theme.wma
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Asteroids_ProyectoFinal.exe
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Asteroids_ProyectoFinal.pdb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.exe
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.pdb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\BalasRapidas1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\BalasRapidas2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\BalasRapidas3.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaBalas1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaBalas2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaBalas3.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\cajaEscudo1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaEscudo2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\cajaEscudo3.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\wallpaperTienda.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\Brillohhh.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\corazon.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\fondoJuego.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\nave.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\powerpad.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\wallpaper.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\parallax.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\parallax2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\FrameScore.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\coinImagen.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\MiniAsteroid.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\wallpaper2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\SuperAsteroide.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\fondoMenu3.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Fondos Niveles\FondoMenu4.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton3.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton4.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton5.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton6.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\botonAtras1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\botonAtras2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\BalasRapidas1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\BalasRapidas2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\BalasRapidas3.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaBalas1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaBalas2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaBalas3.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\cajaEscudo1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\CajaEscudo2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\cajaEscudo3.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\wallpaperTienda.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\Brillohhh.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\coin.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\epic1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\explode.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\overSound.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\playershoot.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\theme.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\font1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\theme.wma
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Asteroids_ProyectoFinal.exe
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Asteroids_ProyectoFinal.pdb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.exe
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\obj\x86\Debug\Asteroids_ProyectoFinal.pdb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\escudo.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Perseguidor.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Disparador.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\bomb2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\bomb1.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\DisparadorMINI.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\PerseguidorMINI.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\SuperAsteroidemini.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\AsteroidLogo.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\AsteroidLogo2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\escudo.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Perseguidor.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Disparador.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\bomb2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Tienda\bomb1.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\DisparadorMINI.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\PerseguidorMINI.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\SuperAsteroidemini.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\AsteroidLogo2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\AsteroidLogo.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Instrucciones.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton7.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton8.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\NoBuy.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\logo.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\pasado.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\FondoNaves.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\ship2.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\ship3.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton10.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton9.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Instrucciones.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton7.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton8.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\NoBuy.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\logo.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\pasado.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\FondoNaves.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\ship2.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\ship3.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton10.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Buttons\boton9.xnb
+C:\Users\Ernesto\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\seleccion.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\seleccion.xnb
+C:\Users\Eduardo\Desktop\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\Asteroids_ProyectoFinal\bin\x86\Debug\Content\Laser.xnb
